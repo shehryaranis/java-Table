@@ -1,0 +1,13 @@
+body{
+
+    background-image: url(images/bb.jpg);
+    background-size: 100%;
+    background-repeat: norepeat;
+
+}
+.table{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
